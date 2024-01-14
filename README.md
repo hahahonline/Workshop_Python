@@ -1,6 +1,6 @@
 # Workshop_Python
 
-##Notebook Python para Iniciantes
+Notebook Python para Iniciantes
 
 Este notebook foi elaborado com carinho para fins acadêmicos, visando auxiliar na aprendizagem de Python para iniciantes. Sinta-se à vontade para explorar, aprender e, se desejar, copiar este conteúdo para seu próprio espaço no Google Colab.
 
